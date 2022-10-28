@@ -1,0 +1,10 @@
+[
+  {
+    "current": "9.0.0",
+    "enabled": true,
+    "majorMsg": {
+      "title": "Important App update",
+      "msg": "Please update jour app to the latest version to continue using it."
+    }
+  }
+]

@@ -3,12 +3,12 @@
     "current": "9.0.0",
     "enabled": true,
     "minorMsg": {
-      "title": "App update",
-      "msg": "Please update jour app to the latest version to enjoy the news that has appeared in the app!"
+      "title": "A apărut o nouă versiune a aplicației",
+      "msg": "Nu uita să folosești mereu cea mai recentă versiune a aplicației pentru a beneficia de toate funcționalitățile noi și de o securitate îmbunătățită."
     },
     "majorMsg": {
-      "title": "Important App update",
-      "msg": "Please update jour app to the latest version to continue using it."
+      "title": "Important! Actualizează aplicațiae",
+      "msg": "Este disponibilă o nouă versiune a aplicației Publi24 care conține schimbări importante. Actualizează acum pentru a putea folosi aplicația."
     }
   }
 ]

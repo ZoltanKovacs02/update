@@ -1,0 +1,14 @@
+[
+  {
+    "current": "8.0.0",
+    "enabled": true,
+    "minorMsg": {
+      "title": "App update",
+      "msg": "Please update jour app to the latest version to enjoy the news that has appeared in the app!"
+    },
+    "majorMsg": {
+      "title": "Important App update",
+      "msg": "Please update jour app to the latest version to continue using it."
+    }
+  }
+]
